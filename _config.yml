@@ -1,0 +1,28 @@
+name: pixeel
+favicon: null
+layout_spectrum: 0.8097910622600466
+typography_spectrum: 0.2864935761317611
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.14362379489466548
+  lightness: 0.36999183730222285
+  saturation: 0.6820036484859884
+  rhythmicContrast: 0.1352521376684308
+purpose: []
